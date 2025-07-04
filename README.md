@@ -16,14 +16,21 @@ This Data analysis project aims to  provides e-commerce analytics solutions to s
      - TotalFields: 16 columns
 
  ### 🧰 Tools Used
-   1. Data Cleaning (Microsoft Excel)
+   1. Data Cleaning (Microsoft Excel Power Query)
        - Handled repeated product id column
        - Standardized product categories (e.g. Car and mobile , house and office equipment....
        - created caalculated columns
-   2. Analysis (Pivot Tables & Formulae)
-   3. Dashboard Development
+   2. Analysis (Pivot Tables, Conditional Formating & Formulae)
+   3. Dashboard Development (Excel Charts, Slicers)
       - Interactive Filters: Category, Price Range, Rating
       - Key Visualizations:
       - Discount impacts on sales volume (Scatter plot)
       - Category Performance heatmap (rating vs discount %)
+   4. Documentation: Github Markdown
+
+### 🧑‍🔬 Methodology 
+In the initial phase of the data cleaning and preparation, the following actions were performed;
+   - a. Data loading and inspection
+   - b. Hndling repeated product id and missing variables
+   - c. Dt cleaning and formating 
         
