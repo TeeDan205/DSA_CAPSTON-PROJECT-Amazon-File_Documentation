@@ -86,7 +86,7 @@ Pivot Table showing number of unique products per price range bucket.
   - <₹200 products represent just 11.8% despite the high-volume potential.
 
 11. Relationship between ratings and level of discounts:
-    Engagement peaks at moderate and high discounts as shown in the line graphs in the dashbord section. The highest number of reviews (27,979) occurs in the 61-70% discount range. The second highest is at 21-30% (24,334) reviews. *Ratings does not linearly increase with discount.* Instaed, we see peaks at 21-30% and 61-70% discount. This shows customers distrust extreme discounts.
+    Engagement peaks at moderate and high discounts as shown in the line graphs in the dashboard section (no 7). The highest number of reviews (27,979) occurs in the 61-70% discount range. The second highest is at 21-30% (24,334) reviews. *Ratings does not linearly increase with discount.* Instaed, we see peaks at 21-30% and 61-70% discount. This shows customers distrust extreme discounts.
 
 12. **310 Products** have fewer thn 1000 reviews while 1041 products have greater than 1000 reviews. This shows significant low-engagement(reviews). Nearly 1 in 4 products (23%) struggle with review generation. Low review is not discount-driven because Toy & Games product category have 0% discounts yet 36% low review. Products with <1,000 reviews show **Lower average ratings** (3.4⭐) vs high-review products (4.3⭐).
    
@@ -130,10 +130,49 @@ The interactive Excel dashboard below provides key insights from the product and
 
 ![products with highest review](https://github.com/user-attachments/assets/f7269378-509b-46b2-bea8-43c776ddf5a5)
 
-*Key Metrics:* **Number of Review and Product Category.**
+*Key Metrics:* **Number of Review and Product.**
+
+6. **Distribution of product Ratings chart**
+
+![product distribution](https://github.com/user-attachments/assets/0cb4751d-467a-4493-912e-53a1b37904a9)
+
+*Key Metrics:* **Product rating and Product.**
+
+7. **Relationship between Rating to Discount Scatter-Line graph**
+
+![relationship btw rating to discount](https://github.com/user-attachments/assets/ff0fa064-97cc-450b-ae29-71c91a781082)
+
+*Key Metrics:* **Product rating and Discount.**
+
+8. **Product Catgeories with highest discounts Charts**
+
+![product with highest discount](https://github.com/user-attachments/assets/7d253db2-6b62-42f8-9330-7dd57c6db959)
+
+*Key Metrics:* **Product Category and Discount.**
+
+9. **Top five(5) Products in terms of ratings and Reviews Pie Charts**
+
+![Top 5 products](https://github.com/user-attachments/assets/0adac127-b600-4288-8708-26a2ccfdeeba)
+
+*Key Metrics:* **Product rating and Product.**
+
+10. **Number of Products with 50% discount (Doughnut Chart)**
+
+![product with 50% discount](https://github.com/user-attachments/assets/a2f7f6be-b711-4f7b-854f-305a61a4439e)
+
+
+*Key Metrics:* **50% Discount and Product.**
+
+11. **Number of Unique Products per price Range Charts**
+
+![number unique bucket](https://github.com/user-attachments/assets/b6bb3b8c-6d61-4d57-8066-56e8affd24cb)
+
+
+*Key Metrics:* **Product and Price Range.**
 
 
 ### 💡 Strategic Recommendations and Conclusion
      
-        
+
+### KPI
      
