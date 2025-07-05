@@ -46,6 +46,14 @@ The key business questions were answered through structured analysis pivot table
 - Discount Impact: Line chart with treadline
 - Price Sensitivity: Bucketized analysis using formular; =IF(Discounted price<200,"<₹200",IF(OR(Discounted price=200,Discounted price<=500),"₹200 - ₹500",">₹500"))
 - Product Rating and Review: Pivot tble with clculated column (Average rating+(Rating count/1000)). A scale factor of 1000 was used to balance the weight.
+
+### 🔑 Key Findings & Insights:
+1.  The average discount percentage by product category is **46.7%**
+2.  Out of 1351 products, Electronic products has the highest number od products (490), Home & Kitchen products are 448, 375 products were Computer & Accesories, 31 are office products, Home Improvement and Musical Instruments have 2 products each and the Health and Toy Games have only one single product.
+3. The total number of reviews per category: Electronics products has the highest reviews with 1998 reviews while the Car and Mobile products has the least rreview of 3.8
+
+
+
      
         
      
