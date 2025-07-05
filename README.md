@@ -85,8 +85,15 @@ Pivot Table showing number of unique products per price range bucket.
   - Only 25.3% in ₹200-₹500 range. There is optimal rating-to-price ratio (4.2⭐ avg vs 3.8⭐ for ₹500)
   - <₹200 products represent just 11.8% despite the high-volume potential.
 
-11. Relationship between ratings and level of discounts
+11. Relationship between ratings and level of discounts:
+    Engagement peaks at moderate and high discounts as shown in the line graphs in the dashbord section. The highest number of reviews (27,979) occurs in the 61-70% discount range. The second highest is at 21-30% (24,334) reviews. *Ratings does not linearly increase with discount.* Instaed, we see peaks at 21-30% and 61-70% discount. This shows customers distrust extreme discounts.
 
+12. **310 Products** hve fewer thn 1000 reviews.
+13. Computer & Accessories product category has the highest discounts.
+14. The top 5 products in terms of rating and number of reviews combined are:
+    ![IMG_20250705_130913_516](https://github.com/user-attachments/assets/1a474398-9242-4581-8070-cb1b695c8c41)
+
+Pivot Table showing the top 5 products in terms of rating and number reviews combined.
   
 
      
