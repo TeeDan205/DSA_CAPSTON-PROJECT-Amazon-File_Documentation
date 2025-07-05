@@ -100,12 +100,39 @@ Pivot Table showing the top 5 products in terms of rating and number reviews com
 
 ### 💻 DashBoard Development and Visualization
 The interactive Excel dashboard below provides key insights from the product and review analysis.
-1. Average Discount Category
+1. **Average Discount Category Chart**
 
 ![Average discount by category](https://github.com/user-attachments/assets/3fc31577-8306-48a4-9f44-d170bead6d2b)
 
 
 *Key Metrics:* **Average Discount and Product Category.**
+
+2. **Products listed under each category Chart**
+
+![products listed](https://github.com/user-attachments/assets/fd5a2db1-3d83-46b3-bd90-cd4489851b19)
+
+
+*Key Metrics:* **Product Category.**
+
+3. **Total number of reviews by category Chart**
+
+![Number of reviews per category](https://github.com/user-attachments/assets/eff74654-618e-4742-b89a-c2f2a11ffd87)
+
+*Key Metrics:* **Number of Review and Product Category.**
+
+4. **Average Actual Price VS Discounted price bt Category Chart**
+
+![Av Actual VS Discount Price](https://github.com/user-attachments/assets/c41be163-7157-408e-9de7-7cbbd9938a45)
+
+*Key Metrics:* **Actual Price and Discounted Price.**
+
+5. **Products with highest number of reviews chart**
+
+![products with highest review](https://github.com/user-attachments/assets/f7269378-509b-46b2-bea8-43c776ddf5a5)
+
+*Key Metrics:* **Number of Review and Product Category.**
+
+
 ### 💡 Strategic Recommendations and Conclusion
      
         
