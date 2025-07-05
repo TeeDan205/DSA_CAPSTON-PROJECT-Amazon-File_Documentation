@@ -64,7 +64,7 @@ The key business questions were answered through structured analysis pivot table
 - Product Rating and Review: Pivot tble with clculated column (Average rating+(Rating count/1000)). A scale factor of 1000 was used to balance the weight.
 
 ### 🔑 Key Findings & Insights:
-1.  The average discount percentage by product category is **46.7%**
+1.  The average discount percentage by product category is **46.7%.**
 
 2.  Out of 1351 products, Electronic products has the highest number od products (490), Home & Kitchen products are 448, 375 products were Computer & Accesories, 31 are office products, Home Improvement and Musical Instruments have 2 products each and the Health and Toy Games have only one single product.
 
@@ -75,7 +75,7 @@ The key business questions were answered through structured analysis pivot table
    Pivot table showing the total number of reviews per category.
 4. The products with the highest average ratings is Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240*280 Pixel High Resolution with 5.0 avearge ratings.
 
-5. The average actual price is ₹5,691.18 while the discounted price is ₹3,304.80 by category as shown in the pivot table below. This implies an average discount of **₹2,386.38** (about 42% across all products.
+5. The average actual price is ₹5,691.18 while the discounted price is ₹3,304.80 by category as shown in the pivot table below. This implies an average discount of **₹2,386.38** (about 42% across all products).
 
 ![pivot 5](https://github.com/user-attachments/assets/c7a49eb5-520a-4d70-a9f4-23e4fffcb832)
 
