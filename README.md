@@ -68,7 +68,7 @@ The key business questions were answered through structured analysis pivot table
 
 7. **662** products have a discount of 50% or more. Almost half of all products (49%) are heavily discounted (>=50%), this suggests slow-moving inventory (especially in Electronics) and also there may be a potential overstocking issues.
 
-8. The distribution of product ratings: Most products are rated between 3.8 and 4.5. **74.1% of products** (1,077) have ratings >=4.0 rated. Only **1.9% (28 products)** fall below 3.0 ratings. Peak at **4.1** ratings with 225 products (15.4% of total). Electronics (avg 4.1 ratings) maintain better quality despite discounts vs Home & Kitchen (avg 3.7 ratings)
+8. The distribution of product ratings: Most products are rated between 3.8⭐ and 4.5⭐. **74.1% of products** (1,077) have ratings >=4.0⭐. Only **1.9% (28 products)** fall below 3.0⭐. Peak at **4.1**⭐ with 225 products (15.4% of total). Electronics (avg 4.1⭐) maintain better quality despite discounts vs Home & Kitchen (avg 3.7⭐ )
 
 9. The total potential revenue (actual_price × rating_count) by category is shown in the pivot table below.
 ![IMG_20250705_130742_205](https://github.com/user-attachments/assets/abdc09f0-551a-4833-b702-1b89ba49173b)
@@ -81,6 +81,11 @@ The key business questions were answered through structured analysis pivot table
 ![IMG_20250705_130812_800](https://github.com/user-attachments/assets/151f7fc5-ca53-4165-b2a8-fe577ab1c725)
 
 Pivot Table showing number of unique products per price range bucket.
+  - 62.9% of products priced >₹500. This alligns with revenue data where Electronics (avg ₹10,418) drove 80% of revenue. This indicates strategic focus on high-value segments.
+  - Only 25.3% in ₹200-₹500 range. There is optimal rating-to-price ratio (4.2⭐ avg vs 3.8⭐ for ₹500)
+  - <₹200 products represent just 11.8% despite the high-volume potential.
+
+11. Relationship between ratings and level of discounts
 
   
 
