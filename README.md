@@ -177,6 +177,11 @@ The interactive Excel dashboard below provides key insights from the product and
 
 *Key Metrics:* **Product and Price Range.**
 
+Dashboard summary at a glance
+Below is the dashboard at a glance:⏬
+
+![dashboard summary](https://github.com/user-attachments/assets/db23e4ad-e8f7-4190-8d74-257e0339e23a)
+
 
 ### 💡 Strategic Recommendations and Conclusion
      
