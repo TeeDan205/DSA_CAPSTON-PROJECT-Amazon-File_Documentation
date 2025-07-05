@@ -58,8 +58,8 @@ The key business questions were answered through structured analysis pivot table
 - Category-wise discount analysis: **Electronics** has the highest absolute discount (₹4,192 savings) despite moderate *percentage discount* (40.2%). This indicates volume-driven startegy.
 - Toy & Games shows **no discounts** despite competitive market. The risk here is loosing price-sensitive customers during festive periods.
 - Office Products is under-discounted. Only 24.1% discount vs category average of 44.9%
-6. 
-7. 
+6. **Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch** with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240*280 Pixel High Resolution hs the highest number of reviews. The fire-Boltt dominates the top 5 positions with 3 products. The top two products are both fire-boltt smartwtches, suggesting strong market presence in the wearble category.
+7. **662** products have a discount of 50% or more. 
 8. 
 
      
