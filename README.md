@@ -47,7 +47,7 @@ This Data analysis project aims to  provides e-commerce analytics solutions to s
 ### 🧑‍🔬 Methodology 
 In the initial phase of the data cleaning and preparation, the following actions were performed;
    - ⏳ **Data Acquisition and inspection:** The data was loaded and the total number of records and fields were confirmed to be the same from the source.
-   - 🧹 **Data cleaning and formating:** An assumption that no product should have more than a record since its all about reviews and ratings was made and hence all duplicated product_id were were removed. Standardized product categories were created from the main category of product given becuase it is a multi-level category. The filter tool was used to validate each column's values.
+   - 🧹 **Data cleaning and formating:** No product should have more than a record since its all about reviews and ratings was made, hence all duplicated product_id were removed. Standardized product categories were created from the main category of product given becuase it is a multi-level category. The filter tool was used to validate each column's values.
    - 🔄 **Data Transformation:** Some Calculated columns were formed (e.g Total Potential Revenue, Discounted price, % Discount bucket, Price Range etc) before the dataset was turned to  table by applying ctrl+T.
    - 📊 **Analysis:** Pivot tables and the calculated coulmn formed were used to analyse and answer the business questions.
    - 📉 **Visualization:** Built interactive charts and conditional formatting were used to present the answers.
@@ -211,5 +211,11 @@ Below is the dashboard at a glance:⏬
    9. Investigate why the HDMI cbles hve so many reviews; is it due to high sales volume?
    10. Boost the fewer than 1000 review products by offering ₹100 coupons for verified reviews and implement post-purchase email sequence with review prompts.
 
-### KPI
+## 🗝️ Key Performance Indicator (KPIs)
+   - Total Number of purchase: 1351 products were purchased, suggesting strong, quality products, market reliability and customer's satisfactions and demands.
+   - Total discount value amounted to ₹4,464,787.17
+   - Total Actual Price sum up to ₹7,688,779.62
+   - Average Product Rating: 4.1 ⭐
+   - Average Rating count on product is 29,236
+   - Total Potential Revenue: The business has potential revenue of ₹113,643,36,203.38 with ₹91,323.92 million from Electronics.
      
