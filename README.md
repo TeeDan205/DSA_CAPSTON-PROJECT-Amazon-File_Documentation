@@ -8,7 +8,7 @@ Excel-based analysis of 1,465 e-commerce products with pivot tables and dashboar
 This Data analysis project aims to  provides e-commerce analytics solutions to sellers on platforms like Amazon. By analysing the various parameters; product and consumer review data etc in the data received we seek to gather enough information to generate insights that can guide product improvement, marketing strategies, and customer engagement. 
 
 ### ✍️ Dataset Description
-- **Source**: The primary source of data used for this analysis is from Amazon product pages, including:
+- **Source**: The data ws provided by the incubtor hub for the purpose of the hackathon and final Examinations of my data nalysis program by the organization. The dataset contains information scraped from Amazon product pages, including: 
    - Product details: name, category, price, discount, and ratings 
    - Customer engagement: user reviews, titles, and content 
    - Each row represents a unique product, with aggregated reviewer data stored as comma-separated values 
@@ -16,12 +16,12 @@ This Data analysis project aims to  provides e-commerce analytics solutions to s
      - TotalFields: 16 columns
 
  ### 🧰 Tools Used
-   1. Data Cleaning (Microsoft Excel)
-       - Handled repeated product id column
+   1. Microsoft Excel (For Data Cleaning)
+       - Handled repeated product_id column
        - Standardized product categories (e.g. Computers & Accessories, Home & Kitchen, Health & Personal Care, Care & Motorbike, Toys & Games etc)
        - created caalculated columns
-   2. Analysis (Pivot Tables, Conditional Formating & Formulae)
-   3. Dashboard Development (Excel Charts, Slicers)
+   2. Pivot Tables, Conditional Formating & Formulae (For Analysis)
+   3. Microsoft Excel Charts, Slicers (Dashboard Development)
       - Interactive Filters: Category, Rating.
       - Key Visualizations:
       - Discount impacts on sales volume (Scatter plot)
