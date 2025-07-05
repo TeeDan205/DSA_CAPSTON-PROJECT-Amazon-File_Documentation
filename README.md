@@ -16,24 +16,40 @@ This Data analysis project aims to  provides e-commerce analytics solutions to s
      - TotalFields: 16 columns
 
  ### 🧰 Tools Used
-   1. Data Cleaning (Microsoft Excel Power Query)
+   1. Data Cleaning (Microsoft Excel)
        - Handled repeated product id column
        - Standardized product categories (e.g. Computers & Accessories, Home & Kitchen, Health & Personal Care, Care & Motorbike, Toys & Games etc)
        - created caalculated columns
    2. Analysis (Pivot Tables, Conditional Formating & Formulae)
    3. Dashboard Development (Excel Charts, Slicers)
-      - Interactive Filters: Category, Price Range, Rating
+      - Interactive Filters: Category, Rating.
       - Key Visualizations:
       - Discount impacts on sales volume (Scatter plot)
       - Category Performance heatmap (rating vs discount %)
    4. Documentation: Github Markdown
+
+### 👓Aims and Objectives: Some business questions listed below are to be answered:
+   - What is the average discount percentage by product category?
+   - How many products are listed under each category?
+   - What is the total number of reviews per category?
+   - Which products have the highest average ratings?
+   - What is the average actual price vs the discounted price by category?
+   - Which products have the highest number of reviews?
+   - How many products have a discount of 50% or more?
+   - What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
+   - What is the total potential revenue (actual_price × rating_count) by category?
+   - What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
+   - How does the rating relate to the level of discount?
+   - How many products have fewer than 1,000 reviews?
+   - Which categories have products with the highest discounts?
+   - Identify the top 5 products in terms of rating and number of reviews combined.
 
 ### 🧑‍🔬 Methodology 
 In the initial phase of the data cleaning and preparation, the following actions were performed;
    - ⏳ **Data Acquisition and inspection:** The data was loaded and the total number of records and fields were confirmed to be the same from the source.
    - 🧹 **Data cleaning and formating:** An assumption that no product should have more than a record since its all about reviews and ratings was made and hence all duplicated product_id were were removed. Standardized product categories were created from the main category of product given becuase it is a multi-level category. The filter tool was used to validate each column's values.
    - 🔄 **Data Transformation:** Some Calculated columns were formed (e.g Total Potential Revenue, Discounted price, % Discount bucket, Price Range etc) before the dataset was turned to  table by applying ctrl+T.
-   - 📊 **Analysis & Modeling:** Pivot tables and the calculated coulmn formed were used to analyse and answer the business questions.
+   - 📊 **Analysis:** Pivot tables and the calculated coulmn formed were used to analyse and answer the business questions.
    - 📉 **Visualization:** Built interactive charts and conditional formatting were used to present the answers.
    - 📑 **Reporting**: Insights were compiled into a dashbord with actionable reccomendation.
 
@@ -177,14 +193,23 @@ The interactive Excel dashboard below provides key insights from the product and
 
 *Key Metrics:* **Product and Price Range.**
 
-Dashboard summary at a glance
+**Dashboard Overview**
 Below is the dashboard at a glance:⏬
 
 ![dashboard summary](https://github.com/user-attachments/assets/db23e4ad-e8f7-4190-8d74-257e0339e23a)
 
 
 ### 💡 Strategic Recommendations and Conclusion
-     
+   1. Cap Discountst 40% for Electronics and 30% for Home & kitchen products categories.
+   2. Investigate why Toys and Games product category have no discounts. If sales are lagging, consider introducing targeted discounts.
+   3. Leverage on Top Products. Since Fire-Boltt smartwatches are popular, consider deeper analysis on what drives their reviews to replicate success in other categories.
+   4. Monitor Customer Response and track if high-discount products show increased return rates, lower repeat purchase rates and higher review volumes with declining ratings.
+   5. Increse 4.6 rated products from 6.4% to 15% and offer merchandising advantages for premium-rated suppliers.
+   6. Diversification Strategy; reduce dependency on Electronics by investing in the Computer and Accessories and Home & Kitchen product category.
+   7. Increase ₹200 - ₹500 products from 25% to 35% in few months to expand the mid-tier products.
+   8. Focus on 20-30% discounts for new product launches and regular promotions to maximize both reviews and customer satisfaction. Investigate why 81-90% discounts have such low review.
+   9. Investigate why the HDMI cbles hve so many reviews; is it due to high sales volume?
+   10. Boost the fewer than 1000 review products by offering ₹100 coupons for verified reviews and implement post-purchase email sequence with review prompts.
 
 ### KPI
      
