@@ -88,8 +88,10 @@ Pivot Table showing number of unique products per price range bucket.
 11. Relationship between ratings and level of discounts:
     Engagement peaks at moderate and high discounts as shown in the line graphs in the dashbord section. The highest number of reviews (27,979) occurs in the 61-70% discount range. The second highest is at 21-30% (24,334) reviews. *Ratings does not linearly increase with discount.* Instaed, we see peaks at 21-30% and 61-70% discount. This shows customers distrust extreme discounts.
 
-12. **310 Products** hve fewer thn 1000 reviews.
-13. Computer & Accessories product category has the highest discounts.
+12. **310 Products** have fewer thn 1000 reviews while 1041 products have greater than 1000 reviews. This shows significant low-engagement(reviews). Nearly 1 in 4 products (23%) struggle with review generation. Low review is not discount-driven because Toy & Games product category have 0% discounts yet 36% low review. Products with <1,000 reviews show **Lower average ratings** (3.4⭐) vs high-review products (4.3⭐).
+   
+13. There is extreme discounting in Tech Categories: Computers & Accesories (94%), Electronics (91%), and Home & Kitchen (90%) have the highest discounts, all above 90%. This suggests aggressive discounting strategies in these categories, possibly due to high competition, rapid obsolescence (for electronics), or overstocking.
+    
 14. The top 5 products in terms of rating and number of reviews combined are:
     ![IMG_20250705_130913_516](https://github.com/user-attachments/assets/1a474398-9242-4581-8070-cb1b695c8c41)
 
