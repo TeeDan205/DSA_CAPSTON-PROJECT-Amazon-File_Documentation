@@ -101,6 +101,7 @@ Pivot Table showing the top 5 products in terms of rating and number reviews com
 ### 💻 DashBoard Development and Visualization
 The interactive Excel dashboard below provides key insights from the product and review analysis.
 1. Average Discount Category
+
 ![Average discount by category](https://github.com/user-attachments/assets/3fc31577-8306-48a4-9f44-d170bead6d2b)
 
 
