@@ -33,8 +33,9 @@ In the initial phase of the data cleaning and preparation, the following actions
    - ⏳ **Data loading and inspection:** The data was loaded and the total number of records and fields were confirmed to be the same from the source.
    - 🧹 **Data cleaning and formating:** An assumption that no product should have more than a record since its all about reviews and ratings was made and hence all duplicated product_id were were removed. Standardized product categories were created from the main category of product given becuase it is a multi-level category. The filter tool was used to validate each column's values.
    - 🔄 **Data Transformation:** Some Calculated columns were formed (e.g Total Potential Revenue, Discounted price, % Discount bucket, Price Range etc) before the dataset was turned to  table by applying ctrl+T.
-   - 📊 **Analysis & Modeling:** Pivot tables and the calculated coulmn formed were used to analysanswer the business questions.
-   - 📉 **Visualization:** 
+   - 📊 **Analysis & Modeling:** Pivot tables and the calculated coulmn formed were used to analyse and answer the business questions.
+   - 📉 **Visualization:** Built interactive charts and conditional formatting were used to present the answers.
+   - 📑 **Reporting**:
      
         
      
