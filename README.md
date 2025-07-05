@@ -98,6 +98,14 @@ Pivot Table showing number of unique products per price range bucket.
 Pivot Table showing the top 5 products in terms of rating and number reviews combined.
   The amazon Basics High-speed HDMI cable are very popular, with three different vriants each having 431 reviews. This suggest strong sales and customer engagement in the HDMI cable category. The Boat Bass Heads earphone come in two colours (red and pink) nd have 368 reviews each, this is also a significant number of ratings and reviews combined. The HDMI cables and Boat Bass Head Earphones from Amazon Basics are  top-selling product line, and the consistency in review counts across variants indicates uniform popularity.
 
+### 💻 DashBoard Development and Visualization
+The interactive Excel dashboard below provides key insights from the product and review analysis.
+1. Average Discount Category
+![Average discount by category](https://github.com/user-attachments/assets/3fc31577-8306-48a4-9f44-d170bead6d2b)
+
+
+*Key Metrics:* **Average Discount and Product Category.**
+### 💡 Strategic Recommendations and Conclusion
      
         
      
