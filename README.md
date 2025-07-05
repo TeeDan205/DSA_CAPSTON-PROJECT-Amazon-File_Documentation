@@ -30,12 +30,22 @@ This Data analysis project aims to  provides e-commerce analytics solutions to s
 
 ### 🧑‍🔬 Methodology 
 In the initial phase of the data cleaning and preparation, the following actions were performed;
-   - ⏳ **Data loading and inspection:** The data was loaded and the total number of records and fields were confirmed to be the same from the source.
+   - ⏳ **Data Acquisition and inspection:** The data was loaded and the total number of records and fields were confirmed to be the same from the source.
    - 🧹 **Data cleaning and formating:** An assumption that no product should have more than a record since its all about reviews and ratings was made and hence all duplicated product_id were were removed. Standardized product categories were created from the main category of product given becuase it is a multi-level category. The filter tool was used to validate each column's values.
    - 🔄 **Data Transformation:** Some Calculated columns were formed (e.g Total Potential Revenue, Discounted price, % Discount bucket, Price Range etc) before the dataset was turned to  table by applying ctrl+T.
    - 📊 **Analysis & Modeling:** Pivot tables and the calculated coulmn formed were used to analyse and answer the business questions.
    - 📉 **Visualization:** Built interactive charts and conditional formatting were used to present the answers.
-   - 📑 **Reporting**:
+   - 📑 **Reporting**: Insights were compiled into a dashbord with actionable reccomendation.
+
+### 💹 Exploratory Data Analysis (EDA)
+The key business questions were answered through structured analysis pivot table architecture.
+- Average Discount % by product category: Pivot Table (Rows `n product category, values `n Avg Discount)
+- Products Listed by Category: Pivot Table [ Rows `n category, values `n Product (count)]
+- High discount Flag = If([Discount]>=50, "Yes","No"), COUNTIF
+- Average actual price vs the discounted price by category: Discounted price % was calculated using =((Actual price-Discount price)/Discount price)*100. Pivot Table (Rows `n product category, values `n Avg Actual price and Avg Discounted price)
+- Discount Impact: Line chart with treadline
+- Price Sensitivity: Bucketized analysis using formular; =IF(Discounted price<200,"<₹200",IF(OR(Discounted price=200,Discounted price<=500),"₹200 - ₹500",">₹500"))
+- Product Rating and Review: Pivot tble with clculated column (Average rating+(Rating count/1000)). A scale factor of 1000 was used to balance the weight.
      
         
      
