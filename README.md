@@ -51,8 +51,16 @@ The key business questions were answered through structured analysis pivot table
 1.  The average discount percentage by product category is **46.7%**
 2.  Out of 1351 products, Electronic products has the highest number od products (490), Home & Kitchen products are 448, 375 products were Computer & Accesories, 31 are office products, Home Improvement and Musical Instruments have 2 products each and the Health and Toy Games have only one single product.
 3. The total number of reviews per category: Electronics products has the highest reviews with 1998 reviews while the Car and Mobile products has the least rreview of 3.8 as shown in the pivot table below.
-![IMG_20250705_103337_438](https://github.com/user-attachments/assets/ce89d8ec-8854-49a3-b00a-e3f8aa2cccc8) pivot table showing the total number of reviews per category.
-4. The products with the highest average ratings is 
+![IMG_20250705_103337_438](https://github.com/user-attachments/assets/ce89d8ec-8854-49a3-b00a-e3f8aa2cccc8) Pivot table showing the total number of reviews per category.
+4. The products with the highest average ratings is Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240*280 Pixel High Resolution with 5.0 avearge ratings.
+5. The average actual price is ₹5,691.18 while the discounted price is ₹3,304.80 by category as shown in the pivot table below. This implies an average discount of **₹2,386.38** (about 42% across all products.
+![IMG_20250705_130558_322](https://github.com/user-attachments/assets/8ee33b0d-68e4-413b-bad4-4130f13091cd)
+- Category-wise discount analysis: **Electronics** has the highest absolute discount (₹4,192 savings) despite moderate *percentage discount* (40.2%). This indicates volume-driven startegy.
+- Toy & Games shows **no discounts** despite competitive market. The risk here is loosing price-sensitive customers during festive periods.
+- Office Products is under-discounted. Only 24.1% discount vs category average of 44.9%
+6. 
+7. 
+8. 
 
      
         
