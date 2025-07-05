@@ -53,13 +53,16 @@ The key business questions were answered through structured analysis pivot table
 2.  Out of 1351 products, Electronic products has the highest number od products (490), Home & Kitchen products are 448, 375 products were Computer & Accesories, 31 are office products, Home Improvement and Musical Instruments have 2 products each and the Health and Toy Games have only one single product.
 
 3. The total number of reviews per category: Electronics products has the highest reviews with 1998 reviews while the Car and Mobile products has the least rreview of 3.8 as shown in the pivot table below.
-![IMG_20250705_103337_438](https://github.com/user-attachments/assets/ce89d8ec-8854-49a3-b00a-e3f8aa2cccc8)
+
+![pivot 3](https://github.com/user-attachments/assets/9393f630-b1ef-4279-ad45-3e5a6efe365a)
 
    Pivot table showing the total number of reviews per category.
 4. The products with the highest average ratings is Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240*280 Pixel High Resolution with 5.0 avearge ratings.
 
 5. The average actual price is ₹5,691.18 while the discounted price is ₹3,304.80 by category as shown in the pivot table below. This implies an average discount of **₹2,386.38** (about 42% across all products.
-![IMG_20250705_130558_322](https://github.com/user-attachments/assets/8ee33b0d-68e4-413b-bad4-4130f13091cd)
+
+![pivot 5](https://github.com/user-attachments/assets/c7a49eb5-520a-4d70-a9f4-23e4fffcb832)
+
 - Category-wise discount analysis: **Electronics** has the highest absolute discount (₹4,192 savings) despite moderate *percentage discount* (40.2%). This indicates volume-driven startegy.
 - Toy & Games shows **no discounts** despite competitive market. The risk here is loosing price-sensitive customers during festive periods.
 - Office Products is under-discounted. Only 24.1% discount vs category average of 44.9%
@@ -71,14 +74,16 @@ The key business questions were answered through structured analysis pivot table
 8. The distribution of product ratings: Most products are rated between 3.8⭐ and 4.5⭐. **74.1% of products** (1,077) have ratings >=4.0⭐. Only **1.9% (28 products)** fall below 3.0⭐. Peak at **4.1**⭐ with 225 products (15.4% of total). Electronics (avg 4.1⭐) maintain better quality despite discounts vs Home & Kitchen (avg 3.7⭐ )
 
 9. The total potential revenue (actual_price × rating_count) by category is shown in the pivot table below.
-![IMG_20250705_130742_205](https://github.com/user-attachments/assets/abdc09f0-551a-4833-b702-1b89ba49173b)
+
+![pivot 9](https://github.com/user-attachments/assets/c8f7cf18-9466-4d30-8648-da7acc5950d3)
 
    Pivot Table showing the Total Potential revenue
 
   Electronics category alone contributes 91,323 million (80.3% total potential revenue). This indicates that Electronics is the core revenue driver. Heavy reliance on Electronics poses a significant risk. Any downturn in this category would drastically affect overall revenue.
 
 10. The number of unique products per price range bucket is shown below.
-![IMG_20250705_130812_800](https://github.com/user-attachments/assets/151f7fc5-ca53-4165-b2a8-fe577ab1c725)
+
+![pivot 10](https://github.com/user-attachments/assets/a8306e62-8263-4a9d-8390-1b44986d31cd)
 
 Pivot Table showing number of unique products per price range bucket.
   - 62.9% of products priced >₹500. This alligns with revenue data where Electronics (avg ₹10,418) drove 80% of revenue. This indicates strategic focus on high-value segments.
@@ -93,7 +98,9 @@ Pivot Table showing number of unique products per price range bucket.
 13. There is extreme discounting in Tech Categories: Computers & Accesories (94%), Electronics (91%), and Home & Kitchen (90%) have the highest discounts, all above 90%. This suggests aggressive discounting strategies in these categories, possibly due to high competition, rapid obsolescence (for electronics), or overstocking.
     
 14. The top 5 products in terms of rating and number of reviews combined are:
-    ![IMG_20250705_130913_516](https://github.com/user-attachments/assets/1a474398-9242-4581-8070-cb1b695c8c41)
+
+![pivot 14](https://github.com/user-attachments/assets/518c1b84-d4c7-41d5-afb2-b85fd7b5e745)
+
 
 Pivot Table showing the top 5 products in terms of rating and number reviews combined.
   The amazon Basics High-speed HDMI cable are very popular, with three different vriants each having 431 reviews. This suggest strong sales and customer engagement in the HDMI cable category. The Boat Bass Heads earphone come in two colours (red and pink) nd have 368 reviews each, this is also a significant number of ratings and reviews combined. The HDMI cables and Boat Bass Head Earphones from Amazon Basics are  top-selling product line, and the consistency in review counts across variants indicates uniform popularity.
