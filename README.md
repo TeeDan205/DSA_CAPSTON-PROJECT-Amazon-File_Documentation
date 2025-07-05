@@ -18,7 +18,7 @@ This Data analysis project aims to  provides e-commerce analytics solutions to s
  ### 🧰 Tools Used
    1. Data Cleaning (Microsoft Excel Power Query)
        - Handled repeated product id column
-       - Standardized product categories (e.g. Car and mobile , house and office equipment....
+       - Standardized product categories (e.g. Computers & Accessories, Home & Kitchen, Health & Personal Care, Care & Motorbike, Toys & Games etc)
        - created caalculated columns
    2. Analysis (Pivot Tables, Conditional Formating & Formulae)
    3. Dashboard Development (Excel Charts, Slicers)
