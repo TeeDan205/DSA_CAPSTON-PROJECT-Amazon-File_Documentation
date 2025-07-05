@@ -53,6 +53,7 @@ The key business questions were answered through structured analysis pivot table
 3. The total number of reviews per category: Electronics products has the highest reviews with 1998 reviews while the Car and Mobile products has the least rreview of 3.8
 
 
+![IMG_20250705_103337_438](https://github.com/user-attachments/assets/ce89d8ec-8854-49a3-b00a-e3f8aa2cccc8)
 
      
         
